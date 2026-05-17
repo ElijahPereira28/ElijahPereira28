@@ -9,11 +9,11 @@ I enjoy building practical applications involving authentication, system design,
 ## 💻 Technical Skills
 | Category        | Tools                       |
 |----------------|-----------------------------------------------|
-| Programming    | Python, C++, JavaScript, Java, C#             |
+| Programming    | Python, C++, JavaScript, Java, HTML/CSS       |
 | Web & Backend  | Node.js, Express.js                           |
 | Databases      | MongoDB, MySQL                                |
 | Security       | JWT, MFA (TOTP), Nmap                         |
-| Tools          | Git, Bash, IntelliJ IDEA, VS Code             |
+| Tools          | Git, Postman, IntelliJ IDEA, VS Code          |
 
 ---
 
